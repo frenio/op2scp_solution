@@ -1,4 +1,4 @@
-Embedding datasets and code can be found and run on Kaggle using the following links:
+Embedding data, other datasets and code can be found and run on Kaggle using the following links:
 
 Model Notebooks:  
 [TabMod NN Notebook](https://www.kaggle.com/code/frenio/30-op2scp-tabular-model-nn-with-pca10-denoising)  
